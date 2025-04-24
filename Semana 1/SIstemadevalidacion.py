@@ -1,7 +1,4 @@
 
-
-
-
 print("costo total")
 
 while True:
